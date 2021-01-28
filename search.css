@@ -1,0 +1,79 @@
+.links {
+    width: 100%;
+    text-align: right;
+}
+
+a {
+    color: gray;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+#logo {
+    height: 92px;
+    width: 272px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#searchBar {
+    width: 40%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+}
+
+.searchButton {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#advancedLogo {
+    float: left;
+    margin-left: 10px;
+    height: 32px;
+    width: 96px;
+}
+
+h1 {
+    color: red;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#advancedCriteria {
+    margin-left: 30px;
+    width: 70%;
+}
+
+.advancedInput {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+label {
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+}
+
+.textInput {
+    width: 60%;
+    float: right;
+}
+
+.advancedButton {
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    float: right;
+}
